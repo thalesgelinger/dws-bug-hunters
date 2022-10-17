@@ -1,0 +1,190 @@
+[
+    {
+        "_id": "0",
+        "name": "Winkler Unfireable",
+        "faction": ["backend", "frontend"],
+        "inventory": [],
+        "equipment": [
+            {
+                "_id": "0",
+                "name": "Excalibug",
+                "affected_attribute": "atk",
+                "affected_amount": 50,
+                "value": 5000
+            },
+            {
+                "_id": "9",
+                "name": "Dirty Keyboard",
+                "affected_attribute": "def",
+                "affected_amount": 5,
+                "value": 2
+            }
+        ],
+        "atk": 9999,
+        "def": 9999,
+        "agi": 9999,
+        "hp": 9999,
+        "gold": 666
+    },
+    {
+        "_id": "?",
+        "name": "Obscur, the Inherited Style",
+        "inventory": [],
+        "faction": ["frontend"],
+        "equipment": [
+            {
+                "_id": "?",
+                "name": "Bug Armor",
+                "affected_attribute": "def",
+                "affected_amount": 2,
+                "value": 0
+            }
+        ],
+        "atk": 8,
+        "def": 12,
+        "agi": 17,
+        "hp": 100,
+        "gold": 10
+    },
+    {
+        "_id": "?",
+        "name": "Semicolon, the Unfindable",
+        "inventory": [],
+        "faction": ["backend"],
+        "equipment": [
+            {
+                "_id": "?",
+                "name": "Bug Armor",
+                "affected_attribute": "def",
+                "affected_amount": 2,
+                "value": 0
+            }
+        ],
+        "atk": 8,
+        "def": 12,
+        "agi": 17,
+        "hp": 100,
+        "gold": 10
+    },
+    {
+        "_id": "?",
+        "name": "Implicitus, Converter of Types",
+        "inventory": [],
+        "faction": ["backend", "frontend"],
+        "equipment": [
+            {
+                "_id": "?",
+                "name": "Bug Armor",
+                "affected_attribute": "def",
+                "affected_amount": 2,
+                "value": 0
+            }
+        ],
+        "atk": 6,
+        "def": 5,
+        "agi": 14,
+        "hp": 100,
+        "gold": 12
+    },
+    {
+        "_id": "?",
+        "name": "Promiserus, the Unhandled Rejection",
+        "inventory": [],
+        "faction": ["backend", "frontend"],
+        "equipment": [
+            {
+                "_id": "?",
+                "name": "Bug Armor",
+                "affected_attribute": "def",
+                "affected_amount": 2,
+                "value": 0
+            }
+        ],
+        "atk": 18,
+        "def": 12,
+        "agi": 17,
+        "hp": 100,
+        "gold": 22
+    },
+    {
+        "_id": "?",
+        "name": "Null, the Pointer Exception",
+        "inventory": [],
+        "faction": ["backend"],
+        "equipment": [
+            {
+                "_id": "?",
+                "name": "Bug Armor",
+                "affected_attribute": "def",
+                "affected_amount": 2,
+                "value": 0
+            },
+            {
+                "_id": "?",
+                "name": "Zweibugger",
+                "affected_attribute": "atk",
+                "affected_amount": 220,
+                "value": 1000
+            }
+        ],
+        "atk": 4,
+        "def": 2,
+        "agi": 10,
+        "hp": 85,
+        "gold": 104
+    },
+    {
+        "_id": "?",
+        "name": "Undefined, He Who Isn't a Function",
+        "inventory": [],
+        "faction": ["frontend"],
+        "equipment": [
+            {
+                "_id": "?",
+                "name": "Bug Armor",
+                "affected_attribute": "def",
+                "affected_amount": 2,
+                "value": 0
+            },
+            {
+                "_id": "?",
+                "name": "Zweibugger",
+                "affected_attribute": "atk",
+                "affected_amount": 220,
+                "value": 1000
+            }
+        ],
+        "atk": 10,
+        "def": 10,
+        "agi": 10,
+        "hp": 100,
+        "gold": 1000
+    },
+    {
+        "_id": "?",
+        "name": "Na'n, He Who Isn't a Number",
+        "inventory": [],
+        "faction": ["frontend"],
+        "equipment": [
+            {
+                "_id": "?",
+                "name": "Bug Armor",
+                "affected_attribute": "def",
+                "affected_amount": 2,
+                "value": 0
+            },
+            {
+                "_id": "?",
+                "name": "Zweibugger",
+                "affected_attribute": "atk",
+                "affected_amount": 220,
+                "value": 1000
+            }
+        ],
+        "atk": 10,
+        "def": 10,
+        "agi": 10,
+        "hp": 100,
+        "gold": 1000
+    }
+]

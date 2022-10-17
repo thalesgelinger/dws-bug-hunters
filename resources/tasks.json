@@ -1,0 +1,236 @@
+[
+    {
+        "_id": "?",
+        "name": "Why Doesn't My Code Run?",
+        "faction": ["backend"],
+        "description": "I'm getting this weird error in my console, can you help me?",
+        "complexity_level": 1,
+        "bugs": [
+            {
+                "_id": "?",
+                "name": "Null, the Pointer Exception",
+                "inventory": [],
+                "faction": ["backend"],
+                "equipment": [
+                    {
+                        "_id": "?",
+                        "name": "Bug Armor",
+                        "affected_attribute": "def",
+                        "affected_amount": 2,
+                        "value": 0
+                    },
+                    {
+                        "_id": "?",
+                        "name": "Zweibugger",
+                        "affected_attribute": "atk",
+                        "affected_amount": 220,
+                        "value": 1000
+                    }
+                ],
+                "atk": 4,
+                "def": 2,
+                "agi": 10,
+                "hp": 85,
+                "gold": 104
+            }
+        ],
+        "reward": 100
+    },
+    {
+        "_id": "?",
+        "name": "This shouldn't have margin...",
+        "faction": ["frontend"],
+        "description": "For some reason, even though I didn't add any margin, our buttons on this page all have margin-bottom: 1rem; and I can't figure out why!",
+        "complexity_level": 1,
+        "bugs": [
+            {
+                "_id": "?",
+                "name": "Obscur, the Inherited Style",
+                "inventory": [],
+                "faction": ["frontend"],
+                "equipment": [
+                    {
+                        "_id": "?",
+                        "name": "Bug Armor",
+                        "affected_attribute": "def",
+                        "affected_amount": 2,
+                        "value": 0
+                    }
+                ],
+                "atk": 8,
+                "def": 12,
+                "agi": 17,
+                "hp": 100,
+                "gold": 10
+            }
+        ],
+        "reward": 100
+    },
+    {
+        "_id": "?",
+        "name": "What is this? ...Why is Javascript so weird?!",
+        "faction": ["frontend"],
+        "description": "How can something be NaN and false at the same time? Is there somethig wrong with my request?",
+        "complexity_level": 3,
+        "bugs": [
+            {
+                "_id": "?",
+                "name": "Undefined, He Who Isn't a Function",
+                "inventory": [],
+                "faction": ["frontend"],
+                "equipment": [
+                    {
+                        "_id": "?",
+                        "name": "Cape of Obscure Error Returns",
+                        "affected_attribute": "def",
+                        "affected_amount": 220,
+                        "value": 1000
+                    }
+                ],
+                "atk": 10,
+                "def": 10,
+                "agi": 10,
+                "hp": 100,
+                "gold": 1000
+            },
+            {
+                "_id": "?",
+                "name": "Na'n, He Who Isn't a Number",
+                "inventory": [],
+                "faction": ["frontend"],
+                "equipment": [
+                    {
+                        "_id": "?",
+                        "name": "Zweibugger",
+                        "affected_attribute": "atk",
+                        "affected_amount": 220,
+                        "value": 1000
+                    }
+                ],
+                "atk": 10,
+                "def": 10,
+                "agi": 10,
+                "hp": 100,
+                "gold": 1000
+            }
+        ],
+        "reward": 100
+    },
+    {
+        "_id": "?",
+        "name": "Missing Data From Response",
+        "faction": ["frontend", "backend"],
+        "description": "When I try accessing the data from this request it's not there! Help me!",
+        "complexity_level": 3,
+        "bugs": [
+            {
+                "_id": "?",
+                "name": "Null, the Pointer Exception",
+                "inventory": [],
+                "faction": ["backend"],
+                "equipment": [
+                    {
+                        "_id": "?",
+                        "name": "Cape of Obscure Error Returns",
+                        "affected_attribute": "def",
+                        "affected_amount": 220,
+                        "value": 1000
+                    }
+                ],
+                "atk": 4,
+                "def": 2,
+                "agi": 10,
+                "hp": 85,
+                "gold": 104
+            },
+            {
+                "_id": "?",
+                "name": "Promiserus, the Unhandled Rejection",
+                "inventory": [],
+                "faction": ["backend", "frontend"],
+                "equipment": [
+                    {
+                        "_id": "?",
+                        "name": "Zweibugger",
+                        "affected_attribute": "atk",
+                        "affected_amount": 220,
+                        "value": 1000
+                    }
+                ],
+                "atk": 18,
+                "def": 12,
+                "agi": 17,
+                "hp": 100,
+                "gold": 22
+            }
+        ],
+        "reward": 100
+    },
+    {
+        "_id": "?",
+        "name": "Why is This Number a String? Omg... Is This in Prod?!",
+        "faction": ["frontend", "backend"],
+        "description": "Apparently a bug went right through our qa process, we need to stop it fast!",
+        "complexity_level": 5,
+        "bugs": [
+            {
+                "_id": "?",
+                "name": "Implicitus, Converter of Types",
+                "inventory": [],
+                "faction": ["backend", "frontend"],
+                "equipment": [
+                    {
+                        "_id": "?",
+                        "name": "Prod Keys",
+                        "affected_attribute": "atk",
+                        "affected_amount": 100,
+                        "value": 1000
+                    }
+                ],
+                "atk": 666,
+                "def": 666,
+                "agi": 666,
+                "hp": 666,
+                "gold": 666
+            }
+        ],
+        "reward": 100
+    },
+    {
+        "_id": "?",
+        "name": "This Is Certainly Our Last Mission",
+        "faction": ["frontend", "backend"],
+        "description": "Either we do the impossible here or we're all done for...",
+        "complexity_level": 8,
+        "bugs": [
+            {
+                "_id": "0",
+                "name": "Winkler Unfireable",
+                "faction": ["backend", "frontend"],
+                "inventory": [],
+                "equipment": [
+                    {
+                        "_id": "0",
+                        "name": "Excalibug",
+                        "affected_attribute": "atk",
+                        "affected_amount": 50,
+                        "value": 5000
+                    },
+                    {
+                        "_id": "9",
+                        "name": "Dirty Keyboard",
+                        "affected_attribute": "def",
+                        "affected_amount": 5,
+                        "value": 2
+                    }
+                ],
+                "atk": 9999,
+                "def": 9999,
+                "agi": 9999,
+                "hp": 9999,
+                "gold": 666
+            }
+        ],
+        "reward": 100
+    }
+]
